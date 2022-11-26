@@ -1,0 +1,22 @@
+# Comentário.
+.idea/
+.vscode/
+
+# Comentário.
+src/main/resources/application.properties
+src/main/resources/application.yml
+
+# Comentário.
+bin/
+target/
+log/
+out/
+
+# Comentário.
+.mvn/
+mvnw.cmd
+mvnw
+
+# Comentário.
+*.iml
+*.log
